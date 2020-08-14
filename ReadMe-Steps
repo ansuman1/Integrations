@@ -27,3 +27,10 @@ or command line
   create a repository after login to GIT
   https://github.com/ansuman1/Integrations.git
   
+  git clone https://github.com/ansuman1/Integrations.git
+  git checkout -b onlySonar
+  git add <xx.*>
+  git status
+  git commit -m "description"
+  git push origin onlySonar 
+  
